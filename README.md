@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sreerajsree9645
-- 👀 I’m interested in computers and new technologies
-- 🌱 I’m currently learning Computer networking (CCNA, RHCE)
-- 💞️ I’m looking to collaborate on new techs
+- 👀 I’m interested in Programming and software development
+- 🌱 I’m currently working as a Software developer 
+- 💞️ I’m looking to collaborate on new techs and projects
 - 📫 How to reach me - email: sreerajsree9645@gmail.com
 
 <!---
